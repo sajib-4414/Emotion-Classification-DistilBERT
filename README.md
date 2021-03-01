@@ -1,4 +1,4 @@
-# Emotion-Classification-DistilBERT
+# Multi class emotion classfication with DistilBERT transfer model
 This project was created for the data science course. DisTilBERT is a lightweight version of BERT model. BERT was a transfer learning Natural language processing model
 proposed in 2018. Since then it has been used for numerous tasks such as classification, regression. BERT has been pretrained with millions of data from the Wikipedia to 
 understand langauge. DistilBERT still has a good performance reducing some features from BERT for decreasing the learning time.
